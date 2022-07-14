@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathan-Blake-17
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently taking courses as per the recommendations from OSSU.
 - 📫 You can reach me via my email -> nathanblake1712@gmail.com
 
 <!---
